@@ -78,4 +78,4 @@ class Television:
         '''
         Method to return and print the TV status, current channel, and current volume
         '''
-        return f'TV Status : Is on = {self.__status}, Channel = {self.__channel}, Volume = {self.__volume}'
+        return f'TV status: Is on = {self.__status}, Channel = {self.__channel}, Volume = {self.__volume}'
